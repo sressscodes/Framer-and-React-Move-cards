@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: 'system-ui', 'Segoe UI', 'Open Sans', 'Helvetica Neue', 'sans-serif';
+}
+
+::selection{
+  color: rgb(255, 166, 0);
+}
